@@ -11,6 +11,10 @@ We are focused on two broad initiatives:
 
 Join our Slack team by sending yourself an invite here: http://joinslack.ict4eumigrants.org
 
+Instructions and links to download Slack mobile and desktop apps here: http://bit.ly/1WFS5nX
+
+Or join the conversation through Slack's web UI: http://ict4eumigrants.slack.com
+
 **Google Drive**
 
 Share information on work being performed in this Google Drive shared folder: http://bit.ly/1VwSrju

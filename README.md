@@ -8,7 +8,9 @@ We are focused on two broad initiatives:
 
 ### How We Communicate
 **Slack**
+
 Join our Slack team by sending yourself an invite here: http://joinslack.ict4eumigrants.organizations
 
 **Google Drive**
+
 Share information on work being performed in this Google Drive shared folder: http://bit.ly/1VwSrju
